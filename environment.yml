@@ -1,0 +1,15 @@
+name: DESUDS
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - python=3.12
+  - scipy
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - git
+prefix: /opt/anaconda3/envs/DESUDS
